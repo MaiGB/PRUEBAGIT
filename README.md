@@ -1,4 +1,4 @@
-#TIULO DE MI PROYECTO/ ENCABEZADO
+# TIULO DE MI PROYECTO/ ENCABEZADO
 ## **Proyecto Git**
 
 Este proyecto es con el fin de aprender las herramientas de control de de versiones **Git** y **GitHub**        
