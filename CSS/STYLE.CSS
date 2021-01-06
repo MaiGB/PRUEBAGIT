@@ -5,3 +5,14 @@ color: rgba(99, 99, 250, 0.842);
 p{
     text-align: center;
 }
+#contenedor{
+    border: solid 2px rgb(248, 235, 235);
+    width: 800px;
+    height: 450px;
+    margin: 250px;
+    padding: 7px;
+
+    background: url(/img/git.png) no-repeat fixed;
+    background-size: 40%;
+    background-position: center;
+}
